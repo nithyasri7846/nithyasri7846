@@ -2,8 +2,6 @@
 
 I’m a Computer Science undergraduate with hands-on experience in **Python, SQL, backend development, and ETL pipelines**, gained through academic projects and internships.  
 
-I enjoy building **reliable data-driven systems** — from ingestion and validation to logging and monitoring — and I’m particularly interested in **backend engineering, distributed systems, and cloud-native workflows**.
-
 ---
 
 ## 🔍 What I Work With
