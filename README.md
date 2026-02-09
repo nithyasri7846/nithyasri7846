@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nithya Sri
+# 👋 Hi, I'm Nithya Sri P R
 
 I’m a Computer Science undergraduate with hands-on experience in **Python, SQL, backend development, and ETL pipelines**, gained through academic projects and internships.  
 
